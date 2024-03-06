@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/nubes" android:duration="100" /> <!--EL TIEMPO QUE TARDA en PASAR DE UNA IMAGEN A OTRa -->
+    <item android:drawable="@drawable/nubes2" android:duration="100" /><!--ORIGINALMENTE ERA DE 50-->
+    <item android:drawable="@drawable/nubes3" android:duration="100" /><!--ORIGINALMENTE ERA DE 50-->
+    <item android:drawable="@drawable/nubes4" android:duration="100" />
+    <item android:drawable="@drawable/nubes6" android:duration="100" />
+    <item android:drawable="@drawable/nubes7" android:duration="100" />
+    <item android:drawable="@drawable/nubes8" android:duration="100" />
+    <item android:drawable="@drawable/nubes9" android:duration="100" />
+    <item android:drawable="@drawable/nubes10" android:duration="100" />
+    <item android:drawable="@drawable/nubes11" android:duration="100" />
+    <item android:drawable="@drawable/nubes12" android:duration="100" />
+    <item android:drawable="@drawable/nubes13" android:duration="100" />
+    <item android:drawable="@drawable/nubes14" android:duration="100" />
+    <item android:drawable="@drawable/nubes15" android:duration="100" />
+    <item android:drawable="@drawable/nubes16" android:duration="100" />
+
+</animation-list>
